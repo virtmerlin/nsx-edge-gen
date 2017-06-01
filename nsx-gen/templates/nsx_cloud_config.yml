@@ -257,8 +257,8 @@ logical_switches:
   cidr: 172.16.100.10/24
   primary_ip: 172.16.100.2
 - name: Infra  
-  cidr: 192.168.10.0/26
-  primary_ip: 192.168.10.2
+  cidr: 192.168.5.0/24
+  primary_ip: 192.168.5.2
 - name: Ert
   cidr: 192.168.20.0/22
   primary_ip: 192.168.20.2
